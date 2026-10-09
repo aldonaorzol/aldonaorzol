@@ -1,4 +1,17 @@
-## Hi there 👋 I'm Aldona | Data Analyst
+## Hi there 👋 
+
+WITH aldona AS (
+    SELECT
+        'Aldona' AS name,
+        'Finance → Data Analytics' AS career_path,
+        'Currently transforming data into insights' AS status
+         ARRAY['SQL', 'Power_BI', 'Excel', 'Power_Query'] AS skills
+)
+SELECT
+    'SQL' AS querying,
+    'Power BI' AS visualizing,
+    'Always Learning' AS status;
+FROM 'binge_coding'
 
 ### About Me
 
