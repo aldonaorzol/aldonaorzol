@@ -15,8 +15,3 @@ WITH data_analyst AS (
       'Power Query' AS data_cleaning
 FROM binge_coding;
 ```
-
-### About Me
-
-I am a finance professional with 8 years of experience in the banking and financial services industry, currently transitioning into a Data Analyst role. My financial background allows me to combine business understanding with data-driven decision making. Over the past months, I have been developing my analytical skills through hands-on projects and intensive learning of data tools.
-
