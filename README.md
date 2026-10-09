@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Aldona | Data Analyst
 
-<!--
-**aldonaorzol/aldonaorzol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I am a finance professional with 8 years of experience in the banking and financial services industry, currently transitioning into a Data Analyst role. My financial background allows me to combine business understanding with data-driven decision making. Over the past months, I have been developing my analytical skills through hands-on projects and intensive learning of:
+- SQL
+- Power BI
+- Excel
+- Power Query
+- Data Visualization
+- Data Cleaning & Transformation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Goals for 2026
+Build a strong Data Analytics portfolio
+Master DAX and advanced Power BI
+Strengthen SQL skills
+Land my first Data Analyst role
