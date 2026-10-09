@@ -11,7 +11,7 @@ I am a finance professional with 8 years of experience in the banking and financ
 - Data Cleaning & Transformation
 
 ### Goals for 2026
-Build a strong Data Analytics portfolio
-Master DAX and advanced Power BI
-Strengthen SQL skills
-Land my first Data Analyst role
+- Build a strong Data Analytics portfolio
+- Master DAX and advanced Power BI
+- Strengthen SQL skills
+- Land my first Data Analyst role
